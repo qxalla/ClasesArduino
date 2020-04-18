@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\rodri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\rodri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\rodri\\Desktop\\SmartCity\\build\\sketch\\prenderLed.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

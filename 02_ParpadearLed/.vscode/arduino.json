@@ -1,0 +1,5 @@
+{
+    "sketch": "parpadearLed.ino",
+    "board": "arduino:avr:uno",
+    "output": "build"
+}
