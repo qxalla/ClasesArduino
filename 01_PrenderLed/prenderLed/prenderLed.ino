@@ -9,10 +9,10 @@ const int led1 = 2;
 void setup()
 {
 	// especificacion de salida
-    pinMode(led1, OUTPUT);
+    pinMode(2, OUTPUT);
 }
 
 void loop()
 {
-	digitalWrite(led1, HIGH);
+	digitalWrite(2, HIGH);
 }

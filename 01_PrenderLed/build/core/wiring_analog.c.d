@@ -1,4 +1,4 @@
-c:\Users\rodri\Desktop\SmartCity\build\core\wiring_analog.c.o: \
+c:\Users\rodri\Desktop\SmartCity\ClasesArduino\01_PrenderLed\build\core\wiring_analog.c.o: \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\wiring_analog.c \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\wiring_private.h \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Arduino.h \

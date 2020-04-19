@@ -1,22 +1,26 @@
 #include <Arduino.h>
-#line 1 "c:\\Users\\rodri\\Desktop\\SmartCity\\prenderLed.ino"
+#line 1 "c:\\Users\\rodri\\Desktop\\SmartCity\\ClasesArduino\\01_PrenderLed\\prenderLed\\prenderLed.ino"
 
+/*
+Author: Rodrigo Quezada L.
+Descripcion: codigo para encender un led en arduino
+*/
 // puerto del led que vamos a ocupar
 const int led1 = 2;
 
-#line 5 "c:\\Users\\rodri\\Desktop\\SmartCity\\prenderLed.ino"
+#line 9 "c:\\Users\\rodri\\Desktop\\SmartCity\\ClasesArduino\\01_PrenderLed\\prenderLed\\prenderLed.ino"
 void setup();
-#line 11 "c:\\Users\\rodri\\Desktop\\SmartCity\\prenderLed.ino"
+#line 15 "c:\\Users\\rodri\\Desktop\\SmartCity\\ClasesArduino\\01_PrenderLed\\prenderLed\\prenderLed.ino"
 void loop();
-#line 5 "c:\\Users\\rodri\\Desktop\\SmartCity\\prenderLed.ino"
+#line 9 "c:\\Users\\rodri\\Desktop\\SmartCity\\ClasesArduino\\01_PrenderLed\\prenderLed\\prenderLed.ino"
 void setup()
 {
 	// especificacion de salida
-    pinMode(led1, OUTPUT);
+    pinMode(2, OUTPUT);
 }
 
 void loop()
 {
-	digitalWrite(led1, HIGH);
+	digitalWrite(2, HIGH);
 }
 

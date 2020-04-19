@@ -1,4 +1,4 @@
-c:\Users\rodri\Desktop\SmartCity\build\core\HardwareSerial3.cpp.o: \
+c:\Users\rodri\Desktop\SmartCity\ClasesArduino\01_PrenderLed\build\core\HardwareSerial3.cpp.o: \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\HardwareSerial3.cpp \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Arduino.h \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\binary.h \

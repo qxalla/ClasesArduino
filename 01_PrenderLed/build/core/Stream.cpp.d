@@ -1,4 +1,4 @@
-c:\Users\rodri\Desktop\SmartCity\build\core\Stream.cpp.o: \
+c:\Users\rodri\Desktop\SmartCity\ClasesArduino\01_PrenderLed\build\core\Stream.cpp.o: \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Stream.cpp \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Arduino.h \
  C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\binary.h \
