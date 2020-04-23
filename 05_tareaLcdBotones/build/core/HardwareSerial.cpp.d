@@ -1,14 +1,14 @@
-/Users/rodrigoquezadalastra/Desktop/clasesArduino/05_tareaLcdBotones/build/core/HardwareSerial.cpp.o: \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/HardwareSerial.cpp \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/Arduino.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/binary.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/WCharacter.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/WString.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/HardwareSerial.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/Stream.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/Print.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/Printable.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/USBAPI.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/variants/standard/pins_arduino.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/HardwareSerial_private.h \
- /Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/wiring_private.h
+c:\Users\rodri\Desktop\SmartCity\ClasesArduino\05_tareaLcdBotones\build\core\HardwareSerial.cpp.o: \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\HardwareSerial.cpp \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Arduino.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\binary.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\WCharacter.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\WString.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\HardwareSerial.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Stream.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Print.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\Printable.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\USBAPI.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\variants\standard/pins_arduino.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\HardwareSerial_private.h \
+ C:\Users\rodri\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.1\cores\arduino\wiring_private.h
