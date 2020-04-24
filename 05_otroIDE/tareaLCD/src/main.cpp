@@ -1,8 +1,3 @@
-
-/*
-Author: Rodrigo Quezada L.
-Descripcion: pantalla led con dos botones que cambian el mensaje
-*/
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 
@@ -38,3 +33,4 @@ void loop()
         mensaje("Boton 2");
     } 
 }
+

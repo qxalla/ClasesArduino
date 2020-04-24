@@ -6,10 +6,13 @@
                 "C:\\Program Files (x86)\\Arduino\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
                 "C:\\Users\\rodri\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
-                "C:\\Users\\rodri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\**"
+                "C:\\Users\\rodri\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\**",
+                "/Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/**",
+                "/Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/tools/**"
             ],
             "forcedInclude": [
-                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "/Users/rodrigoquezadalastra/Library/Arduino15/packages/arduino/hardware/avr/1.8.1/cores/arduino/Arduino.h"
             ],
             "intelliSenseMode": "msvc-x64"
         }
