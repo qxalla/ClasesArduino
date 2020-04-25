@@ -19,6 +19,6 @@ void loop()
         digitalWrite(x,HIGH); // enciendo el led
         delay(500);
         digitalWrite(x,LOW); // apago el led
-        delay(500);
+        //delay(500);
     }
 }
